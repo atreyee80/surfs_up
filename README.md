@@ -19,7 +19,8 @@ W. Avy is concerned about the amount of precipitation on Oahu. There needs to be
 
 
 ## Results:
-
+![](june.png?raw=true)
+![](dec.png?raw=true)
 
 
 ## Summary:

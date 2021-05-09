@@ -25,7 +25,7 @@ W. Avy is concerned about the amount of precipitation on Oahu. There needs to be
 ![](dec.png?raw=true)
 ### From the Stastics for the month of June we can see that the min temp is 64 and the max temp is 85
 ![](Summary_Stat_June.png?raw=true)
-### From the Stastics for the month of June we can see that the min temp is 56 and the max temp is 83
+### From the Stastics for the month of December we can see that the min temp is 56 and the max temp is 83
 ![](Summary_Stat_Dec.png?raw=true)
 
 

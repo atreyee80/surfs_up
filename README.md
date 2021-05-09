@@ -39,6 +39,12 @@ W. Avy is concerned about the amount of precipitation on Oahu. There needs to be
 
 
 ## Summary:
-So Oahu would be the peerfect place for establishing the ice cream shop
+So Oahu would be the perfect place for establishing the ice cream shop
+## We can do additional query to see the precipitation rate 
+
 ![](Precipitation.png?raw=true)
+## We can see the station with highest number of precipitations records
+
+![](StationId_preci.png?raw=true)
+
 

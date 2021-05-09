@@ -19,11 +19,13 @@ W. Avy is concerned about the amount of precipitation on Oahu. There needs to be
 
 
 ## Results:
-
+From the query based on the month of June we can see that the temperature is mostly in the 70's 
 ![](June.png?raw=true)
-
+From the query based on the month of Dec we can see that the temperature is mostly in the 70's 
 ![](dec.png?raw=true)
+From the Stastics for the month of June we can see that the min temp is 64 and the max temp is 85
 ![](Summary_Stat_June.png?raw=true)
+From the Stastics for the month of June we can see that the min temp is 56 and the max temp is 83
 ![](Summary_Stat_Dec.png?raw=true)
 
 

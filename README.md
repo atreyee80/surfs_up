@@ -27,7 +27,7 @@ W. Avy is concerned about the amount of precipitation on Oahu. There needs to be
 ![](Summary_Stat_June.png?raw=true)
 ### From the Stastics for the month of December we can see that the min temp is 56 and the max temp is 83
 ![](Summary_Stat_Dec.png?raw=true)
-### Other then temperature we can see that 
+### Other then temperature from the stastics analysis  we can see that 
 #### For June
 ##### Total count is 1700
 ##### Mean is 74.94
@@ -39,5 +39,5 @@ W. Avy is concerned about the amount of precipitation on Oahu. There needs to be
 
 
 ## Summary:
-
+So Oahu would be the peerfect place for establishing the ice cream shop
 

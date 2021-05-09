@@ -2,10 +2,10 @@
 ## Overview of the analysis:
 The purpose of this analysis is to help W. Avy who is planning to build a shop at Oahu we need to see the weather patterns of that location Oahu .
 ### WE can see the following to determine if the location Oahu will be ideal for opening a shop.
-.Precipatation
-.Station
-.Temperature
-.Statistics
+#### .Precipatation
+#### .Station
+#### .Temperature
+#### .Statistics
 One way to provide this insight is with a visualization—we'll plot the results of our precipitation analysis using Matplotlib.
 Using statistical analysis—such as the mean, standard deviation, minimum, and maximum will help to determine if investing in the shop at Oahu will be a good idea or not.
 It's clear from your analysis that Oahu is a great location for the new surf shop.
